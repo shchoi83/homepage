@@ -1,0 +1,12 @@
+{
+  "updated": "2025-06",
+  "classes": [
+    {
+      "name": "수업명",
+      "days": "요일",
+      "time": "시간",
+      "level": "대상 / 정원",
+      "status": "open"
+    }
+  ]
+}
