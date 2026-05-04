@@ -1,0 +1,19 @@
+{
+  "name": "이름",
+  "title": "전공 / 과목",
+  "intro": "소개글",
+  "stats": {
+    "years": "8+",
+    "students": "120+",
+    "successRate": "95%",
+    "rating": "4.9"
+  },
+  "credentials": [
+    { "year": "2016", "title": "학교 / 자격", "sub": "세부사항" }
+  ],
+  "contact": {
+    "kakao": "@아이디",
+    "phone": "010-0000-0000",
+    "email": "이메일"
+  }
+}
